@@ -183,6 +183,10 @@ h2 {
     font-size: 1.5rem;
   }
 
+  .testimonial-text {
+    font-size: 1rem;
+  }
+
   .brand-logo {
     margin-bottom: 2rem;
   }
@@ -190,6 +194,11 @@ h2 {
   h1 {
     text-align: center;
     font-size: 2rem;
+  }
+
+  .press-logos {
+    width: 40%;
+    margin-bottom: 2rem;
   }
 
   .download-button-group {
